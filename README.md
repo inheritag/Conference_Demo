@@ -2,16 +2,16 @@
 Conference scheduler with spring boot
 
 Testing:
-Sessions endpoints -
+Sessions endpoints -</br>
   method = GET 'api/sessions'</br>
-  method = GET 'api/sessions/{id}'
-  method = POST 'api/sessions' (args = Session session)
-  method = DELETE 'api/sessions/{id}'
-  method = PUT 'api/sessions/{id}' (args = Session session)
-Speakers endpoints -
-  method = GET 'api/speakers'
-  method = GET 'api/speakers/{id}'
-  method = POST 'api/speakers' (args = Speakers speakers)
-  method = DELETE 'api/speakers/{id}'
-  method = PUT 'api/speakers/{id}' (args = Speakers speakers)
+  method = GET 'api/sessions/{id}'</br>
+  method = POST 'api/sessions' (args = Session session)</br>
+  method = DELETE 'api/sessions/{id}'</br>
+  method = PUT 'api/sessions/{id}' (args = Session session)</br>
+Speakers endpoints -</br>
+  method = GET 'api/speakers'</br>
+  method = GET 'api/speakers/{id}'</br>
+  method = POST 'api/speakers' (args = Speakers speakers)</br>
+  method = DELETE 'api/speakers/{id}'</br>
+  method = PUT 'api/speakers/{id}' (args = Speakers speakers)</br>
   
