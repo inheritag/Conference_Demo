@@ -3,7 +3,7 @@ Conference scheduler with spring boot
 
 Testing:
 Sessions endpoints -
-  method = GET 'api/sessions'
+  method = GET 'api/sessions'</br>
   method = GET 'api/sessions/{id}'
   method = POST 'api/sessions' (args = Session session)
   method = DELETE 'api/sessions/{id}'
